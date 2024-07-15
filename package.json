@@ -19,7 +19,7 @@
     "stop-discord-phishing": "^0.3.3"
   },
   "devDependencies": {
-    "@sentry/types": "^7.100.1",
+    "@sentry/types": "^8.0.0",
     "@types/node": "^20.11.20",
     "@types/node-fetch": "^2.6.4",
     "typescript": "^5.3.3"
